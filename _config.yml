@@ -22,8 +22,8 @@ title: F'log
 email: feifeijinjp@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   F'log is shor for Fei's blog. It's a place where I share my thoughts and ideas.
-baseurl: "https://feifeijin.github.io/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FeiFeiJin_Y
 github_username:  feifeijin
 
