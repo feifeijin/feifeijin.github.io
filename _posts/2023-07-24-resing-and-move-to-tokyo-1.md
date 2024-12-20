@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "33 岁从外包主动辞职独自移居东京---伟大与失败"
 date: 2023-07-24 10:00:00 +0900
-categories: [blog, tutorial]
+categories: [blog]
 ---
 
 写在最前面，其实这个帖子想写很久了，最近看到[30 岁从大厂裸辞全家搬往英国的故事（上）](https://v2ex.com/t/955368#reply177),这个帖子，感触颇丰，也终于事将自己的个人经验soon出来。
