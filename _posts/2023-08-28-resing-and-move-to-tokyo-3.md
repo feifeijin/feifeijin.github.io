@@ -2,7 +2,7 @@
 layout: single
 title: "33 岁在东京进行生产资料创作---平凡与稀奇"
 date: 2023-08-28 10:00:00 +0900
-categories: [blog]
+categories: [City,Diary]
 ---
 
 
