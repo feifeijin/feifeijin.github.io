@@ -48,7 +48,10 @@ A: It was dull before your message; you brighten my sky.
 - 用英语去表达爱慕
 
 ```
-You're so cute and handsome, and I see light in your eyes. I've used all the words I know to compliment you. I wish I’d learned more vocabulary to express my emotions to you, but English isn’t my native language.
+You're so cute and handsome, and I see light in your eyes. 
+I've used all the words I know to compliment you. 
+I wish I’d learned more vocabulary to express my emotions to you, 
+but English isn’t my native language.
 ```
 
 我们需要学会用大脑去组合简单的词汇来达到想要的效果，一言以蔽之就是：**以运算复杂度换取空间复杂度**
