@@ -5,11 +5,11 @@ date: 2026-04-01 00:30:00 +0900
 categories: [Study,Language]
 ---
 
-从自己的角度聊聊自然语言学习这件事。简单介绍下，po主目前生活在东京，流利掌握中、日、英三语。实际运用中： 中 > 英 > 日，粤语也能做到係知聽不知講，或者讲，粤语也可以講少少，但口音太塑料，更乐意讲自己不会讲。
+从自己的角度聊聊自然语言学习这件事。简单介绍下，po主目前生活在东京，流利掌握中、日、英三语。实际运用中：中 > 英 > 日，粤语也能做到係知聽不知講。或者讲，粤语也可以講少少，但口音太塑料，更乐意讲自己不会讲。
 
 ## 外语学习经历
 
-- 英语：初一开始，主要是学教育校和自学，没有任何补习和培训就经历，在出国前英语就流畅交流。
+- 英语：初一开始，主要是学校教育和自学，没有任何补习和培训经历，在出国前英语就能流畅交流。
 
 - 日语：高中毕业后短暂学习过五十音；大学毕业后在家乡本地机构系统学习日语（每周两次），完成中级课程；几年后在深圳进行为期一年的一对一日语学习（每周两次）。
 
@@ -29,24 +29,24 @@ categories: [Study,Language]
 去寻找解答出数学题和解开**LeetCode**一样的快感。在学校里的正反馈就是来自于老师的表扬和试卷上的分数，在座大都是成年人，可能已经没有这一部分了，分享一些我自己学校外的正反馈：
 
 - 突然听懂美国饶舌歌手麻辣鸡英文rap的瞬间。
-- 大二在乐山讲英文给未订到酒店的国际友人帮助，并一起完成两天的旅行。
-- 大三在校园里给骑行旅行全球的日本人帮助，日本后偶尔会碰面聊天，只是现在用日语。
-- 在深圳用英文给外国友人解释“吹牛”这款酒桌游戏的玩法，大摇筛中喝到宿醉。
+- 大二在乐山用英文帮助未订到酒店的国际友人，并一起完成了两天的旅行。
+- 大三在校园里帮助一位骑行环游世界的日本人，之后偶尔会碰面聊天，现在则用日语。
+- 在深圳用英文给外国友人解释“吹牛”这款酒桌游戏的玩法，大摇骰中喝到宿醉。
 - 参加日文读书会和读者们产生的“共感”。
 
-![“我“是凶手](https://i.imgur.com/2dYk7gj.png)
+![“我”是凶手](https://i.imgur.com/2dYk7gj.png)
 
-这些 Aha-moment 都是建立在语言积累过程中，并不是到达了某一个等级后才能完成，我们要学会运用现有的语言知识去传达，语言只是一个**手段**而非一个**目的**。很多时候对方是一个母语者，因此对方可以语言降级，我们只要用简单词汇就能保证双方沟通的流畅性，关键**行为要大胆**。
+这些 Aha moments 都建立在语言积累过程中，并不是到达某一个等级后才能完成。我们要学会运用现有的语言知识去传达，语言只是一个**手段**而非一个**目的**。很多时候对方是母语者，因此对方可以语言降级，我们只要用简单词汇就能保证双方沟通的流畅性，关键**行为要大胆**。
 例如：
 - Tinder
 ```
 Q: How was your day?
-A: It's dumb before your mesage, you brighter my sky.
+A: It was dull before your message; you brighten my sky.
 ```
 - 用英语去表达爱慕
 
 ```
-You're so cute and handsome and I see light in your eyes. I've used all the words I know to compliment you. I wish I’d learned more vocabularies to express my emotions to you, but English isn’t my native language.
+You're so cute and handsome, and I see light in your eyes. I've used all the words I know to compliment you. I wish I’d learned more vocabulary to express my emotions to you, but English isn’t my native language.
 ```
 
 我们需要学会用大脑去组合简单的词汇来达到想要的效果，一言以蔽之就是：**以运算复杂度换取空间复杂度**
