@@ -84,11 +84,6 @@ categories: [City,Diary]
 ***
 
 
-
-
-
-
-
 ## 关于日本的交友与融入
 * 社恐
 
