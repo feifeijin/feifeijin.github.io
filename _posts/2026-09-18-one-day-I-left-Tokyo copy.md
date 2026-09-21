@@ -2,7 +2,7 @@
 layout: single
 title: "忽然有一天，我离开了东京"
 date: 2026-09-18 15:30:00 +0900
-categories: [City,Feivolution,Tokyo]
+categories: [City,Tokyo]
 ---
 
 忽然有一天，我离开了东京。
